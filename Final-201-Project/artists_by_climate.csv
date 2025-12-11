@@ -1,0 +1,176 @@
+artist_name,climate_category,track_count
+Billie Eilish,Cold,54
+Billie Eilish,Cool,180
+Billie Eilish,Hot,99
+Billie Eilish,Warm,189
+"Billie Eilish, Khalid",Cold,6
+"Billie Eilish, Khalid",Cool,20
+"Billie Eilish, Khalid",Hot,11
+"Billie Eilish, Khalid",Warm,21
+"Don Toliver, Justin Bieber, Future",Cold,6
+"Don Toliver, Justin Bieber, Future",Cool,20
+"Don Toliver, Justin Bieber, Future",Hot,11
+"Don Toliver, Justin Bieber, Future",Warm,21
+Drake,Cold,24
+Drake,Cool,79
+Drake,Hot,44
+Drake,Warm,84
+"Drake, Central Cee",Cold,6
+"Drake, Central Cee",Cool,20
+"Drake, Central Cee",Hot,11
+"Drake, Central Cee",Warm,21
+"Drake, Chris Brown",Cold,6
+"Drake, Chris Brown",Cool,20
+"Drake, Chris Brown",Hot,11
+"Drake, Chris Brown",Warm,21
+"Drake, Travis Scott",Cold,6
+"Drake, Travis Scott",Cool,20
+"Drake, Travis Scott",Hot,11
+"Drake, Travis Scott",Warm,21
+"Drake, Wizkid, Kyla",Cold,6
+"Drake, Wizkid, Kyla",Cool,20
+"Drake, Wizkid, Kyla",Hot,11
+"Drake, Wizkid, Kyla",Warm,21
+Future,Cold,12
+Future,Cool,40
+Future,Hot,22
+Future,Warm,38
+"Future, Drake",Cold,6
+"Future, Drake",Cool,20
+"Future, Drake",Hot,11
+"Future, Drake",Warm,21
+"Future, Drake, Tems",Cold,6
+"Future, Drake, Tems",Cool,20
+"Future, Drake, Tems",Hot,11
+"Future, Drake, Tems",Warm,21
+"Future, Metro Boomin, Kendrick Lamar",Cold,6
+"Future, Metro Boomin, Kendrick Lamar",Cool,20
+"Future, Metro Boomin, Kendrick Lamar",Hot,11
+"Future, Metro Boomin, Kendrick Lamar",Warm,21
+"Future, Metro Boomin, Travis Scott, Playboi Carti",Cold,6
+"Future, Metro Boomin, Travis Scott, Playboi Carti",Cool,20
+"Future, Metro Boomin, Travis Scott, Playboi Carti",Hot,11
+"Future, Metro Boomin, Travis Scott, Playboi Carti",Warm,21
+"Future, The Weeknd",Cold,6
+"Future, The Weeknd",Cool,20
+"Future, The Weeknd",Hot,11
+"Future, The Weeknd",Warm,21
+Kendrick Lamar,Cold,24
+Kendrick Lamar,Cool,79
+Kendrick Lamar,Hot,44
+Kendrick Lamar,Warm,84
+"Kendrick Lamar, Jay Rock",Cold,1
+"Kendrick Lamar, Jay Rock",Cool,1
+"Kendrick Lamar, Jay Rock",Warm,1
+"Kendrick Lamar, Lefty Gunplay",Cold,6
+"Kendrick Lamar, Lefty Gunplay",Cool,20
+"Kendrick Lamar, Lefty Gunplay",Hot,11
+"Kendrick Lamar, Lefty Gunplay",Warm,21
+"Kendrick Lamar, SZA",Cold,12
+"Kendrick Lamar, SZA",Cool,39
+"Kendrick Lamar, SZA",Hot,22
+"Kendrick Lamar, SZA",Warm,42
+"Kendrick Lamar, Zacari",Cold,6
+"Kendrick Lamar, Zacari",Cool,20
+"Kendrick Lamar, Zacari",Hot,11
+"Kendrick Lamar, Zacari",Warm,21
+"Lil Wayne, Drake",Cold,6
+"Lil Wayne, Drake",Cool,20
+"Lil Wayne, Drake",Hot,11
+"Lil Wayne, Drake",Warm,21
+"Metro Boomin, Future, Chris Brown",Cold,6
+"Metro Boomin, Future, Chris Brown",Cool,20
+"Metro Boomin, Future, Chris Brown",Hot,11
+"Metro Boomin, Future, Chris Brown",Warm,21
+"Metro Boomin, Future, Don Toliver",Cold,6
+"Metro Boomin, Future, Don Toliver",Cool,20
+"Metro Boomin, Future, Don Toliver",Hot,11
+"Metro Boomin, Future, Don Toliver",Warm,21
+"Metro Boomin, Travis Scott, Young Thug",Cold,6
+"Metro Boomin, Travis Scott, Young Thug",Cool,20
+"Metro Boomin, Travis Scott, Young Thug",Hot,11
+"Metro Boomin, Travis Scott, Young Thug",Warm,21
+"Morgan Wallen, Tate McRae",Cold,6
+"Morgan Wallen, Tate McRae",Cool,20
+"Morgan Wallen, Tate McRae",Hot,11
+"Morgan Wallen, Tate McRae",Warm,21
+Olivia Rodrigo,Cold,54
+Olivia Rodrigo,Cool,180
+Olivia Rodrigo,Hot,99
+Olivia Rodrigo,Warm,189
+"Olivia Rodrigo, Disney",Cold,6
+"Olivia Rodrigo, Disney",Cool,20
+"Olivia Rodrigo, Disney",Hot,11
+"Olivia Rodrigo, Disney",Warm,21
+"PARTYNEXTDOOR, Drake, Yebba",Cold,6
+"PARTYNEXTDOOR, Drake, Yebba",Cool,20
+"PARTYNEXTDOOR, Drake, Yebba",Hot,11
+"PARTYNEXTDOOR, Drake, Yebba",Warm,21
+SZA,Cold,12
+SZA,Cool,39
+SZA,Hot,22
+SZA,Warm,42
+"SZA, Travis Scott",Cold,6
+"SZA, Travis Scott",Cool,19
+"SZA, Travis Scott",Hot,11
+"SZA, Travis Scott",Warm,21
+Tate McRae,Cold,47
+Tate McRae,Cool,159
+Tate McRae,Hot,88
+Tate McRae,Warm,168
+"Tate McRae, F1 The Album",Cold,6
+"Tate McRae, F1 The Album",Cool,20
+"Tate McRae, F1 The Album",Hot,11
+"Tate McRae, F1 The Album",Warm,21
+Taylor Swift,Cold,54
+Taylor Swift,Cool,180
+Taylor Swift,Hot,99
+Taylor Swift,Warm,189
+"Taylor Swift, Sabrina Carpenter",Cold,6
+"Taylor Swift, Sabrina Carpenter",Cool,20
+"Taylor Swift, Sabrina Carpenter",Hot,11
+"Taylor Swift, Sabrina Carpenter",Warm,21
+The Weeknd,Cold,30
+The Weeknd,Cool,100
+The Weeknd,Hot,55
+The Weeknd,Warm,105
+"The Weeknd, Anitta",Cold,6
+"The Weeknd, Anitta",Cool,20
+"The Weeknd, Anitta",Hot,11
+"The Weeknd, Anitta",Warm,21
+"The Weeknd, Ariana Grande",Cold,6
+"The Weeknd, Ariana Grande",Cool,20
+"The Weeknd, Ariana Grande",Hot,11
+"The Weeknd, Ariana Grande",Warm,21
+"The Weeknd, Daft Punk",Cold,6
+"The Weeknd, Daft Punk",Cool,20
+"The Weeknd, Daft Punk",Hot,11
+"The Weeknd, Daft Punk",Warm,21
+"The Weeknd, JENNIE, Lily-Rose Depp",Cold,6
+"The Weeknd, JENNIE, Lily-Rose Depp",Cool,20
+"The Weeknd, JENNIE, Lily-Rose Depp",Hot,11
+"The Weeknd, JENNIE, Lily-Rose Depp",Warm,21
+"The Weeknd, Playboi Carti",Cold,6
+"The Weeknd, Playboi Carti",Cool,20
+"The Weeknd, Playboi Carti",Hot,11
+"The Weeknd, Playboi Carti",Warm,21
+Travis Scott,Cold,30
+Travis Scott,Cool,100
+Travis Scott,Hot,55
+Travis Scott,Warm,103
+"Travis Scott, Kacy Hill",Cold,6
+"Travis Scott, Kacy Hill",Cool,20
+"Travis Scott, Kacy Hill",Hot,11
+"Travis Scott, Kacy Hill",Warm,21
+"Travis Scott, Playboi Carti",Cold,6
+"Travis Scott, Playboi Carti",Cool,20
+"Travis Scott, Playboi Carti",Hot,11
+"Travis Scott, Playboi Carti",Warm,21
+Zach Bryan,Cold,54
+Zach Bryan,Cool,180
+Zach Bryan,Hot,99
+Zach Bryan,Warm,189
+"Zach Bryan, Kacey Musgraves",Cold,6
+"Zach Bryan, Kacey Musgraves",Cool,20
+"Zach Bryan, Kacey Musgraves",Hot,11
+"Zach Bryan, Kacey Musgraves",Warm,21

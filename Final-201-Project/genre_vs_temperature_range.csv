@@ -1,0 +1,25 @@
+temp_range,genre,track_count
+Cold,pop,317
+Cold,rap,138
+Cold,country,66
+Cold,hip hop,49
+Cold,r&b,18
+Cold,dark r&b,6
+Cool,pop,1059
+Cool,rap,459
+Cool,country,220
+Cool,hip hop,159
+Cool,r&b,58
+Cool,dark r&b,20
+Hot,pop,583
+Hot,rap,253
+Hot,country,121
+Hot,hip hop,88
+Hot,r&b,33
+Hot,dark r&b,11
+Warm,pop,1113
+Warm,rap,477
+Warm,country,231
+Warm,hip hop,169
+Warm,r&b,63
+Warm,dark r&b,21
